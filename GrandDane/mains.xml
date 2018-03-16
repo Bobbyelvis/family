@@ -9,6 +9,10 @@
 <link>https://github.com/Bobbyelvis/family/raw/master/GrandDane/film.xml</link>
 <thumbnail>https://github.com/Bobbyelvis/family/raw/master/GrandDane/imgs/ikons/Film.png</thumbnail></dir>
 
+<dir><name>Danske Boks</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/GrandDane/boks.xml</link>
+<thumbnail>http://www.dvdcity.dk/cover/1050601877955/danske-film-klassikere-20-dvd-boks-box-set-20-disk.jpg</thumbnail></dir>
+
 <dir><name>TV kanaler</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/GrandDane/tv/dktv.xml</link>
 <thumbnail>https://github.com/Bobbyelvis/family/raw/master/GrandDane/imgs/ikons/kanaler.png</thumbnail></dir>
