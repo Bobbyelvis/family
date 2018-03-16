@@ -2,7 +2,7 @@
 <fanart>http://bsnscb.com/data/out/51/39448497-danish-wallpapers.png</fanart>
 ##################################################################################
 
-<dir>
+dir>
 <name>Anja Og Viktor</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/GrandDane/boks/kaerlighed.xml</link>
 <thumbnail>https://www.laserdisken.dk/billeder/forsidestor/50579623332215516.jpg</thumbnail>
@@ -32,7 +32,7 @@
 
 
 
-<dir>
+dir>
 <name>Soldaterkammerater</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/GrandDane/boks/soldat.xml</link>
 <thumbnail>https://www.laserdisken.dk/billeder/forsidestor/62905598712521363.jpg</thumbnail>
