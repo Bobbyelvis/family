@@ -37,9 +37,14 @@ dir>
 </dir>
 
 
-
 <dir>
 <name>Soldaterkammerater</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/GrandDane/boks/soldat.xml</link>
 <thumbnail>https://www.laserdisken.dk/billeder/forsidestor/62905598712521363.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Harry Potter</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/GrandDane/boks/harrypotter.xml</link>
+<thumbnail>http://dizw242ufxqut.cloudfront.net/images/product/movie/dvd/image0/harry_potter_samleboks_1_-_7_del_2_8_disc-15163013-frntl.jpg</thumbnail>
 </dir>
