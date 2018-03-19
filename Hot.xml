@@ -1018,3 +1018,8 @@
 <thumbnail>https://i.imgur.com/vQlkLtY.png</thumbnail>
    <externallink>http://myipcam.ddns.net:8080/get.php?username=Rhys&amp;password=Rhys&amp;type=m3u&amp;output=mpegts$$TSDOWNLOADER$$</externallink>
   </item>
+  
+   <dir>
+    <title>All Networks</title>
+    <tvmaze>country/all</tvmaze>
+    </dir>
