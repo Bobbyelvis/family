@@ -995,3 +995,19 @@
   <thumbnail>https://image.tmdb.org/t/p/original/z9IrT9Hanu1ptwMHRbxEvlN8Sbp.jpg</thumbnail>
   <fanart></fanart>
 </item>
+
+	<item>
+	<title>[B][COLOR lime]Bliss Tv - [COLOR lime][B] Auto IPTV [/B][/COLOR] - f4mTester REQUIRED!</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/qKiQ0qa.jpg</fanart>
+<thumbnail>https://i.imgur.com/vQlkLtY.png</thumbnail>
+   <externallink>https://playlist.autoiptv.net/xml.php</externallink>
+	</item>
+
+	<item>
+	<title>[B][COLOR lime]Bliss Tv - [COLOR lime][B] Auto IPTV  [/B][/COLOR] - NORMAL LIST</title>
+<link>ignore</link>
+<fanart>https://i.imgur.com/qKiQ0qa.jpg</fanart>
+<thumbnail>https://i.imgur.com/vQlkLtY.png</thumbnail>
+   <externallink>https://playlist.autoiptv.net/normal.php</externallink>
+	</item>
