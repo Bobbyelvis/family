@@ -4,6 +4,12 @@
 
 <dir>
 <name>Greyzone</name>
-<link>https://github.com/Bobbyelvis/family/raw/master/GrandDane/Serier/Greyzone.xml</link>
+<link>https://github.com/Bobbyelvis/family/raw/master/GrandDane/Serier/greyzone.xml</link>
 <thumbnail>https://static.next-episode.net/tv-shows-images/huge/greyzone.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Advokaten</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/GrandDane/Serier/advokaten.xml</link>
+<thumbnail>https://ia.media-imdb.com/images/M/MV5BOGM4NjZkOGMtYjY2YS00ZTBkLTk5NzgtODc4OTk3ZDJkMDg4XkEyXkFqcGdeQXVyODU2NzE0MTI@._V1_.jpg</thumbnail>
 </dir>
