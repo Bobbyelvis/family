@@ -3,19 +3,19 @@
 #######################################################################################################################################
 <dir><name>Børn</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/GrandDane/born/bornmain.xml</link>
-<thumbnail>https://github.com/Bobbyelvis/family/raw/master/GrandDane/imgs/ikons/born.png</thumbnail></dir>
+<thumbnail>https://github.com/Bobbyelvis/family/raw/master/GrandDane/imgs/nyikon/danskeborn.png</thumbnail></dir>
 
 <dir><name>Film</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/GrandDane/film.xml</link>
-<thumbnail>https://github.com/Bobbyelvis/family/raw/master/GrandDane/imgs/ikons/Film.png</thumbnail></dir>
+<thumbnail>https://github.com/Bobbyelvis/family/raw/master/GrandDane/imgs/nyikon/danskefilm.png</thumbnail></dir>
 
 <dir><name>Danske Boks</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/GrandDane/boks.xml</link>
-<thumbnail>http://www.dvdcity.dk/cover/1050601877955/danske-film-klassikere-20-dvd-boks-box-set-20-disk.jpg</thumbnail></dir>
+<thumbnail>https://github.com/Bobbyelvis/family/raw/master/GrandDane/imgs/nyikon/danskeboks.png</thumbnail></dir>
 
 <dir><name>Danske Serier</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/GrandDane/serier.xml</link>
-<thumbnail>https://www.stevnsbib.dk/sites/stevns.ddbcms.dk/files/danske_serier_12x4_2.png</thumbnail></dir>
+<thumbnail>https://github.com/Bobbyelvis/family/raw/master/GrandDane/imgs/nyikon/danskeserier.png</thumbnail></dir>
 
 <dir><name>TV kanaler</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/GrandDane/tv/dktv.xml</link>
