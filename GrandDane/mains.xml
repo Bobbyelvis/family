@@ -19,7 +19,7 @@
 
 <dir><name>TV kanaler</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/GrandDane/tv/dktv.xml</link>
-<thumbnail>https://github.com/Bobbyelvis/family/raw/master/GrandDane/imgs/nyikon/dansktv.png/thumbnail></dir>
+<thumbnail>https://github.com/Bobbyelvis/family/raw/master/GrandDane/imgs/nyikon/dansktv.png</thumbnail></dir>
 
 <dir><name>Jul</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/GrandDane/jul/main.xml</link>
