@@ -5,16 +5,16 @@
 <dir>
 <name>Tegne/Animationsfilm</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/GrandDane/born/borntegnefilm.xml</link>
-<thumbnail>http://www.norestrictions.club/valhalla/GrandDane/imgs/ikons/tegne.png</thumbnail>
+<thumbnail>https://github.com/Bobbyelvis/family/raw/master/GrandDane/imgs/nyikon/tegnefilm.png</thumbnail>
 </dir>
 
 <dir>
 <name>Børne film</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/GrandDane/born/bornfilm.xml</link>
-<thumbnail>http://www.norestrictions.club/valhalla/GrandDane/imgs/ikons/bornefi.png</thumbnail>
+<thumbnail>https://github.com/Bobbyelvis/family/raw/master/GrandDane/imgs/nyikon/bornefilm.png.png</thumbnail>
 </dir>
 
-<dir>
+dir>
 <name>Børne serier</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/GrandDane/born/bornserier.xml</link>
 <thumbnail>http://www.norestrictions.club/valhalla/GrandDane/imgs/ikons/bornese.png</thumbnail>
