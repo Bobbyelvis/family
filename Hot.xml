@@ -581,3 +581,9 @@
 <imdburl>years/2017</imdburl>
 <thumbnail>https://image.tmdb.org/t/p/original/z9IrT9Hanu1ptwMHRbxEvlN8Sbp.jpg</thumbnail>
 </dir>
+
+<plugin>
+<name>test</name>
+<link>plugin://script.module.aragon/</link>
+<thumbnail></thumbnail>
+</plugin>
