@@ -587,3 +587,8 @@
 <link>plugin://script.module.aragon/</link>
 <thumbnail></thumbnail>
 </plugin>
+
+<dir>
+<title>Sports Streams</title>
+<sport_stream>games</sport_stream>
+</dir>
