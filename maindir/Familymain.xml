@@ -4,7 +4,7 @@
 #######################################################################################################################################
 
 <dir>
-<name>Nyeste film</name>
+<name>Hot movies</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Hot.xml</link>
 <thumbnail>https://i.imgur.com/UWiMb0d.png</thumbnail>
 </dir>
@@ -16,31 +16,31 @@
 </dir>
 
 <dir>
-<name>De bedste fra 2018</name>
+<name>Best of 2018</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/2018.xml</link>
 <thumbnail>https://i.imgur.com/1iSPd9E.png</thumbnail>
 </dir>
 
 <dir>
-<name>De bedste fra 2017</name>
+<name>Best of 2017</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/2017.xml</link>
 <thumbnail>https://i.imgur.com/fguFmMF.png</thumbnail>
 </dir>
 
 <dir>
-<name>De bedste fra 2016</name>
+<name>Best of 2016</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/2016.xml</link>
 <thumbnail>https://i.imgur.com/PYOSuGl.png</thumbnail>
 </dir>
 
 <dir>
-<name>De bedste fra 2015</name>
+<name>Best of 2015</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/best2015.xml</link>
 <thumbnail>https://i.imgur.com/NJrkIOW.png</thumbnail>
 </dir>
 
 <dir>
-<name>Film Bokse</name>
+<name>Boxsets</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Boxset.xml</link>
 <thumbnail>https://i.imgur.com/sgBZw2A.png</thumbnail>
 </dir>
@@ -52,76 +52,76 @@
 </dir>
 
 <dir>
-<name>TV serier</name>
+<name>TV shows</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Tv/Tv.xml</link>
 <thumbnail>https://i.imgur.com/3G43FLH.png</thumbnail>
 </dir>
 
 <dir>
-<name>Skuespillere</name>
+<name>Actors</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Actors/Actordir.xml</link>
 <thumbnail>https://i.imgur.com/SUfPJrR.png</thumbnail>
 </dir>
 
 <dir>
-<name>Årtier</name>
+<name>Decades</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Decades/Decades.xml</link>
 <thumbnail>https://i.imgur.com/z5jjHCr.png</thumbnail>
 </dir>
 
 <dir>
-<name>Gys</name>
+<name>Horror</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Horror/Horror.xml</link>
 <thumbnail>https://i.imgur.com/Zsh7GRd.png</thumbnail>
 </dir>
 
 <dir>
-<name>Marvel mod DC</name>
+<name>Marvel Vs DC</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/DcMarvel/DcMarveldir.xml</link>
 <thumbnail>https://i.imgur.com/ItqEMAa.png</thumbnail>
 </dir>
 
 <dir>
-<name>Western film</name>
+<name>Westerns</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Westerns/Westerns.xml</link>
 <thumbnail>https://i.imgur.com/tgSjALr.png</thumbnail>
 </dir>
 
 <dir>
-<name>Alt det danske</name>
+<name>Danish Collection</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/GrandDane/mains.xml</link>
 <thumbnail>https://i.imgur.com/3qQ8zlO.png</thumbnail>
 </dir>
 
 <dir>
-<name>Tegnefilm (Engelsk tale)</name>
+<name>Kids Corner</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Kids/Kids.xml</link>
 <thumbnail>https://i.imgur.com/frIsCZa.png</thumbnail>
 </dir>
 
 <dir>
-<name>Spillehjørnet</name>
+<name>Gamer's Place</name>
 <link>http://www.norestrictions.club/valhalla/E3/E3.xml</link>
 <thumbnail>https://i.imgur.com/ARmEDMx.png</thumbnail>
 </dir>
 
-<dir><name>Ryger hjørnet</name>
+<dir><name>Smoker's place</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Weed/Weeddir.xml</link>
 <thumbnail>https://i.imgur.com/8vral3J.png</thumbnail></dir>
 
 
-<dir><name>JUL</name>
+<dir><name>Christmas</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Christmas/Christmasdir.xml</link>
 <thumbnail>https://i.imgur.com/sM8aoa1.png</thumbnail></dir>
 
 
 <plugin>
-<name>Indstillinger</name>
+<name>Settings</name>
 <link>plugin://plugin.video.valhalla/?action=openSettings</link>
 <thumbnail></thumbnail>
 </plugin>
 
 <dir>
-      <title>Søg film/serier</title>
+      <title>Search movies/Tv</title>
       <tmdb>search</tmdb>
     </dir>
