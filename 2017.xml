@@ -2,6 +2,134 @@
 <poster>Valhalla</poster>
 <fanart>http://forumarchiwum.muve.pl/uploads/forum-post/20130828190540-ad3d6_521e2e37deffb.jpg</fanart> 
 #######################################################################################################################################
+	<item>
+  <title>Star Wars: The Last Jedi (2017)</title>
+  <meta>
+    <content>movie</content>
+    <imdb>tt2527336</imdb>
+    <title>Star Wars: The Last Jedi</title>
+    <year>2017</year>
+  </meta>
+  <link>
+    <sublink>search</sublink>
+    <sublink>searchsd</sublink>
+  </link>
+  <thumbnail>http://image.tmdb.org/t/p/w500/xGWVjewoXnJhvxKW619cMzppJDQ.jpg</thumbnail>
+  <fanart>http://image.tmdb.org/t/p/original/5Iw7zQTHVRBOYpA0V6z0yypOPZh.jpg</fanart>
+</item>
+
+<item>
+<title>The Greatest Showman (2017)</title>
+<meta>
+<content>movie</content>
+<imdb>tt1485796</imdb>
+<title>The Greatest Showman</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>        
+<thumbnail>https://image.tmdb.org/t/p/original/5aHDZj2esq4RFKWIQUJIEVh2C8W.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/wBPVQMLvZC5kH2S3BKeKc8jwUy8.jpg</fanart>
+</item>
+	
+	<item>
+<title>Jumanji: Welcome to the Jungle (2017)</title>
+<meta>
+<content>movie</content>
+<imdb>tt2283362</imdb>
+<title>Jumanji: Welcome to the Jungle</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>        
+<thumbnail>https://image.tmdb.org/t/p/original/qcVl1KHAZBMvfY3tui9tyMq87hA.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xu1K9wch9iu5Pqd1wIGHFs2yTfV.jpg</fanart>
+</item>
+
+<item>
+<title>The Shape of Water (2017)</title>
+<meta>
+<content>movie</content>
+<imdb>tt5580390</imdb>
+<title>The Shape of Water</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>        
+<thumbnail>https://image.tmdb.org/t/p/original/iLYLADGA5oKGM92Ns1j9CDgk3iI.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/bAISaVhsaoyyQMZ55cpTwCdzek4.jpg</fanart>
+</item>
+	
+	<item>
+  <title>Thor: Ragnarok (2017)</title>
+  <meta>
+    <content>movie</content>
+    <imdb>tt3501632</imdb>
+    <title>Thor: Ragnarok</title>
+    <year>2017</year>
+  </meta>
+  <link>
+	<sublink>search</sublink>
+    <sublink>searchsd</sublink>
+  </link>
+  <thumbnail>https://image.tmdb.org/t/p/original/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg</thumbnail>
+  <fanart>https://image.tmdb.org/t/p/original/5wNUJs23rT5rTBacNyf5h83AynM.jpg</fanart>
+</item>
+
+	<item>
+<title>Justice League (2017)</title>
+<meta>
+<content>movie</content>
+<imdb>tt0974015</imdb>
+<title>Justice League</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>        
+<thumbnail>https://image.tmdb.org/t/p/original/aQkEdqaXVxYObMLeoBSAUcgkxLs.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pYG53ptSZ3mtbgqSAWCh6OUJy8T.jpg</fanart>
+</item>
+	
+	<item>
+<title>Murder on the Orient Express (2017)</title>
+<meta>
+<content>movie</content>
+<imdb>tt3402236</imdb>
+<title>Murder on the Orient Express</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>        
+<thumbnail>https://image.tmdb.org/t/p/original/rDAD6C0J48liXaVK11jamdKAatE.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/pPcg9z8M9AqxZeCHOwjU0Wk4iF8.jpg</fanart>
+</item>
+
+<item>
+<title>Daddy's Home 2 (2017)</title>
+<meta>
+<content>movie</content>
+<imdb>tt5657846</imdb>
+<title>Daddy's Home 2</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>        
+<thumbnail>https://image.tmdb.org/t/p/original/oLIsJO3uDfbHrx6e826tbWDKTpM.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jRi6AKMPLnMtsFtWY0FUXZOlnVb.jpg</fanart>
+</item>
+
 <item>
 <title>Wonder Wheel (2017)</title>
 <meta>
@@ -32,6 +160,166 @@
 </link>        
 <thumbnail>https://image.tmdb.org/t/p/original/61NII3rY76fWyfzqIO3wa48LfiC.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/original/hxSuiXSsBWuAjR2rRMw4oOJw6jF.jpg</fanart>
+</item>
+
+<item>
+<title>I Kill Giants (2017)</title>
+<meta>
+<content>movie</content>
+<imdb>tt4547194</imdb>
+<title>I Kill Giants</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>        
+<thumbnail>https://image.tmdb.org/t/p/original/6cBSaoCbnEAJOing6ZTUuUc36gh.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/yWrKspmv5HI5pWCVzgRKRLGzzDs.jpg</fanart>
+</item>
+
+<item>
+<title>Father Figures (2017)</title>
+<meta>
+<content>movie</content>
+<imdb>tt1966359</imdb>
+<title>Father Figures</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>        
+<thumbnail>https://image.tmdb.org/t/p/original/bEHOthoB2UqCIiUzhnHnLMXbRuJ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/xfZZ0Dk2bOxOz1C8T8OQVRGGGIq.jpg</fanart>
+</item>
+
+<item>
+<title>The last movie star (2017)</title>
+<meta>
+<content>movie</content>
+<imdb>tt5836316</imdb>
+<title>The last movie star</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>        
+<thumbnail>https://image.tmdb.org/t/p/original/lG5dabMULAKGJ3xGAHsSjuRzmUB.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/gj7j4LfvX0xoFbhMj7QUzvHkVR3.jpg</fanart>
+</item>
+
+<item>
+<title>All the Money in the World (2017)</title>
+<meta>
+<content>movie</content>
+<imdb>tt5294550</imdb>
+<title>All the Money in the World</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>        
+<thumbnail>https://image.tmdb.org/t/p/original/gjseSuhzwEnEdtQJGNnRXR1VFin.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/kDAIeve5RMx7iy2O5hvAIap2nH4.jpg</fanart>
+</item>
+
+<item>
+<title>Us and Them (2017)</title>
+<meta>
+<content>movie</content>
+<imdb>tt3592750</imdb>
+<title>Us and Them</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>        
+<thumbnail>https://image.tmdb.org/t/p/original/oAlvbIdgA06Sl4YkEJFdYHwgzsE.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Jasper Jones (2017)</title>
+<meta>
+<content>movie</content>
+<imdb>tt5091014</imdb>
+<title>Jasper Jones</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>        
+<thumbnail>https://image.tmdb.org/t/p/original/8STcHG95dwTG7s9tdVbJ27SwwRX.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/7IMYRhLxHtPDu7SsemN9lKgKNr3.jpg</fanart>
+</item>
+
+<item>
+<title>Hostiles (2017)</title>
+<meta>
+<content>movie</content>
+<imdb>tt5478478</imdb>
+<title>Hostiles</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>        
+<thumbnail>https://image.tmdb.org/t/p/original/rqoezyB51GfhiloOB5ZErg5HXas.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ozdXqMwijV192aSrojjFQMGeWSh.jpg</fanart>
+</item>
+
+<item>
+<title>Mobile Homes (2017)</title>
+<meta>
+<content>movie</content>
+<imdb>tt5613402</imdb>
+<title>Mobile Homes</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>        
+<thumbnail>https://image.tmdb.org/t/p/original/of72rtl3j0C9yJMlSJZHXnaByz8.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/aWKA2kLGhyPAdXvK8UEmSR4e7dS.jpg</fanart>
+</item>
+
+<item>
+<title>Habit (2017)</title>
+<meta>
+<content>movie</content>
+<imdb>tt5240258</imdb>
+<title>Habit</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>        
+<thumbnail>https://image.tmdb.org/t/p/original/ciUB7SfN4EohqWvbRC9rrpBd4x3.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/vfDjNXFfdrdnqPoyUv7VcLSj2Ao.jpg</fanart>
+</item>
+
+<item>
+<title>The Escape (2017)</title>
+<meta>
+<content>movie</content>
+<imdb>tt6069126</imdb>
+<title>The Escape</title>
+<year>2017</year>
+</meta>
+<link>
+<sublink>search</sublink>
+<sublink>searchsd</sublink>
+</link>        
+<thumbnail>https://image.tmdb.org/t/p/original/UytKgGDMkfTa3Na6ZYH6CPElSU.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/kTkH9kPb70SuW0w2UrwhCjXoNIW.jpg</fanart>
 </item>
 
 <item>
