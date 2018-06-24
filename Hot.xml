@@ -885,22 +885,3 @@
   <thumbnail>https://image.tmdb.org/t/p/original/oSLd5GYGsiGgzDPKTwQh7wamO8t.jpg</thumbnail>
   <fanart>https://image.tmdb.org/t/p/original/5wNUJs23rT5rTBacNyf5h83AynM.jpg</fanart>
 </item>
-
-
-
-<dir>
-<title>IMDB 2017</title>
-<imdburl>years/2017</imdburl>
-<thumbnail>https://image.tmdb.org/t/p/original/z9IrT9Hanu1ptwMHRbxEvlN8Sbp.jpg</thumbnail>
-</dir>
-
-<plugin>
-<name>test</name>
-<link>plugin://script.module.aragon/</link>
-<thumbnail></thumbnail>
-</plugin>
-
-<dir>
-<title>Sports Streams</title>
-<sport_stream>games</sport_stream>
-</dir>
