@@ -1,0 +1,21 @@
+#######################################################################################################################################
+<poster>Valhalla</poster>
+<fanart></fanart>
+#######################################################################################################################################
+
+<dir><name>Mixed animated movies</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Kids/Kidslist.xml</link>
+<thumbnail></thumbnail></dir>
+
+<dir><name>101 Dalmatians</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Kids/101.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/iSPT5UV5u4wObhzERdPp0i4LqUi.jpg</thumbnail></dir>
+
+<dir><name>Barbie</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Kids/barbie.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/t96xQ0OfuIECMCTHATQmNqOc9nx.jpg</thumbnail></dir>
+
+<dir><name>Despicable me</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Kids/Despicable.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/ptfiIVOAlapBnrzgGSAOuCRLSkj.jpg</thumbnail></dir>
+
