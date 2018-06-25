@@ -11,6 +11,10 @@
 <link>https://github.com/Bobbyelvis/family/raw/master/Kids/101.xml</link>
 <thumbnail>https://image.tmdb.org/t/p/original/iSPT5UV5u4wObhzERdPp0i4LqUi.jpg</thumbnail></dir>
 
+<dir><name>Aladdin</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Kids/Aladdin.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/oZN5w508NSlrmcMql1wohhsQGIg.jpg</thumbnail></dir>
+
 <dir><name>Barbie</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Kids/Barbie.xml</link>
 <thumbnail>https://image.tmdb.org/t/p/original/t96xQ0OfuIECMCTHATQmNqOc9nx.jpg</thumbnail></dir>
@@ -19,13 +23,33 @@
 <link>https://github.com/Bobbyelvis/family/raw/master/Kids/Despicable.xml</link>
 <thumbnail>https://image.tmdb.org/t/p/original/ptfiIVOAlapBnrzgGSAOuCRLSkj.jpg</thumbnail></dir>
 
+<dir><name>Finding nemo</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Kids/Findingnemo.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/n3pzA8cV6iTMTmq5Ep7o0djOf57.jpg</thumbnail></dir>
+
+<dir><name>How to train your dragon</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Kids/Dragon.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kQ0Sq4ihGmBq6r00S7KmhtOyO6Z.jpg</thumbnail></dir>
+
 <dir><name>Ice age</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Kids/Iceage.xml</link>
 <thumbnail>https://image.tmdb.org/t/p/original/mk6m850cpuYAZFrrPXm46hrHC7s.jpg</thumbnail></dir>
 
+<dir><name>Kung fu panda</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Kids/Kungfu.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/UJwhgwAxU42cm9XKncO9boFAEV.jpg</thumbnail></dir>
+
+<dir><name>Lego</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Kids/Lego.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/sYS85q6Ooasc3FkTO0NL8j0Kgu1.jpg</thumbnail></dir>
+
 <dir><name>Lion King</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Kids/Lionking.xml</link>
 <thumbnail>https://image.tmdb.org/t/p/original/sovszUGOwcCfdcfg2xYGMnsRryf.jpg</thumbnail></dir>
+
+<dir><name>Shrek</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Kids/Shrek.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/2l5UHZBcp9cx1PwKLdisJ0gV9jB.jpg</thumbnail></dir>
 
 <dir><name>Toy story</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Kids/Toystory.xml</link>
