@@ -1,0 +1,45 @@
+<item>
+	<title>[COLOR=white]Cars[/COLOR]</title>
+	<meta>
+	<imdb>tt0317219</imdb>
+	<content>movie</content>
+	<title>Cars</title>
+	<year>2006</year>
+	</meta>
+	<link>
+	<sublink>search</sublink>
+	<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/5damnMcRFKSjhCirgX3CMa88MBj.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/a1MlbLBk5Sy6YvMbSuKfwGlDVlb.jpg</fanart>
+</item>
+<item>
+	<title>[COLOR=white]Cars 2[/COLOR]</title>
+	<meta>
+	<imdb>tt1216475</imdb>
+	<content>movie</content>
+	<title>Cars 2</title>
+	<year>2011</year>
+	</meta>
+	<link>
+	<sublink>search</sublink>
+	<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/AblhtULOVtrkSnFxRPQ8gBemxw9.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/jEcmZhtJkZQc6ta2vzBd9CU7GIx.jpg</fanart>
+</item>
+<item>
+	<title>[COLOR=white]Cars 3[/COLOR]</title>
+	<meta>
+	<imdb>tt3606752</imdb>
+	<content>movie</content>
+	<title>Cars 3</title>
+	<year>2017</year>
+	</meta>
+	<link>
+	<sublink>search</sublink>
+	<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w1280/fyy1nDC8wm553FCiBDojkJmKLCs.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/w1280/36h3Sw4y4COqMeNg31ST0h5xRae.jpg</fanart>
+</item>

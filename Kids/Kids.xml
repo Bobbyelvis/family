@@ -19,6 +19,10 @@
 <link>https://github.com/Bobbyelvis/family/raw/master/Kids/Barbie.xml</link>
 <thumbnail>https://image.tmdb.org/t/p/original/t96xQ0OfuIECMCTHATQmNqOc9nx.jpg</thumbnail></dir>
 
+<dir><name>Cars</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Kids/Cars.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/bKr8bAMQkcWtwKv9RS4ARAYwPJQ.jpg</thumbnail></dir>
+
 <dir><name>Despicable me</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Kids/Despicable.xml</link>
 <thumbnail>https://image.tmdb.org/t/p/original/ptfiIVOAlapBnrzgGSAOuCRLSkj.jpg</thumbnail></dir>
@@ -26,6 +30,10 @@
 <dir><name>Finding nemo</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Kids/Findingnemo.xml</link>
 <thumbnail>https://image.tmdb.org/t/p/original/n3pzA8cV6iTMTmq5Ep7o0djOf57.jpg</thumbnail></dir>
+
+<dir><name>Hotel transylvania</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Kids/Hoteltrans.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/kQ0Sq4ihGmBq6r00S7KmhtOyO6Z.jpg</thumbnail></dir>
 
 <dir><name>How to train your dragon</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Kids/Dragon.xml</link>
@@ -39,13 +47,21 @@
 <link>https://github.com/Bobbyelvis/family/raw/master/Kids/Kungfu.xml</link>
 <thumbnail>https://image.tmdb.org/t/p/original/UJwhgwAxU42cm9XKncO9boFAEV.jpg</thumbnail></dir>
 
-<dir><name>Lego</name>
+<dir><name>Land before time</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Kids/Landbefore.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/48Mg9lbVQJ8K0v02fXB7kTiFl0R.jpg</thumbnail></dir>
+
+dir><name>Lego</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Kids/Lego.xml</link>
 <thumbnail>https://image.tmdb.org/t/p/original/sYS85q6Ooasc3FkTO0NL8j0Kgu1.jpg</thumbnail></dir>
 
 <dir><name>Lion King</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Kids/Lionking.xml</link>
 <thumbnail>https://image.tmdb.org/t/p/original/sovszUGOwcCfdcfg2xYGMnsRryf.jpg</thumbnail></dir>
+
+<dir><name>Madagascar</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Kids/Madagascar.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/wUetiqu2EFhHW94yTP0pWABfyUG.jpg</thumbnail></dir>
 
 <dir><name>Shrek</name>
 <link>https://github.com/Bobbyelvis/family/raw/master/Kids/Shrek.xml</link>
