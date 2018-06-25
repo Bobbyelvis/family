@@ -19,4 +19,16 @@
 <link>https://github.com/Bobbyelvis/family/raw/master/Kids/Despicable.xml</link>
 <thumbnail>https://image.tmdb.org/t/p/original/ptfiIVOAlapBnrzgGSAOuCRLSkj.jpg</thumbnail></dir>
 
+<dir><name>Ice age</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Kids/Iceage.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/mk6m850cpuYAZFrrPXm46hrHC7s.jpg</thumbnail></dir>
+
+<dir><name>Lion King</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Kids/Lionking.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/sovszUGOwcCfdcfg2xYGMnsRryf.jpg</thumbnail></dir>
+
+<dir><name>Toy story</name>
+<link>https://github.com/Bobbyelvis/family/raw/master/Kids/Toystory.xml</link>
+<thumbnail>https://image.tmdb.org/t/p/original/9bAid4t1TbOqIasrpDNZ1vWGjGy.jpg</thumbnail></dir>
+
    
